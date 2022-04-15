@@ -7,7 +7,7 @@
   "port": 32333,
   "db": {
     "enable": false,
-    "url": "mongodb://127.0.0.1:27017/bifm"
+    "url": "mongodb://usngxweafzjkzn1rypoy:5sOUY7KJAfwzShH2WfFR@bbgmhusban8ky3g-mongodb.services.clever-cloud.com:27017/bbgmhusban8ky3g"
   },
   "fastforward": true
 }
