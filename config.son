@@ -4,7 +4,7 @@
     "service": "2captcha",
     "key": "8c9f99260c886e8dbca7a9dc030d6635"
   },
-  "port": 32333,
+  "port": process.env.PORT,
   "db": {
     "enable": true,
     "url": "mongodb://usngxweafzjkzn1rypoy:5sOUY7KJAfwzShH2WfFR@bbgmhusban8ky3g-mongodb.services.clever-cloud.com:27017/bbgmhusban8ky3g"
