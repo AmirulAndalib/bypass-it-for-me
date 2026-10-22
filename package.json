@@ -17,13 +17,13 @@
   "author": "tacohitbox",
   "license": "UNLICENSED",
   "dependencies": {
-    "@antiadmin/anticaptchaofficial": "^1.0.14",
+    "@antiadmin/anticaptchaofficial": "^1.0.57",
     "2captcha": "^2.2.0",
     "agate": "^0.0.1",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.1",
-    "got": "^11.8.2",
-    "mongodb": "^4.3.1",
+    "express": "^4.22.0",
+    "got": "^16.1.0",
+    "mongodb": "^4.17.0",
     "set-cookie-parser": "^2.4.8"
   }
 }
